@@ -19,3 +19,4 @@ public class Exercise1 {
         return 0.0;
     }
 }
+//TODO still to solve
